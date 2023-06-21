@@ -26,5 +26,4 @@ rainfall - rainfall in mm
 
 ## Contributors 👨‍💻
 
-- [Mohammed Gaiban Khan](https://github.com/Gaiban-Khan)
-- [Manjunath Kallatti](https://github.com/manjunath7901)
+- [Mohammed Adnan](https://github.com/mohammedAdnan6364)
